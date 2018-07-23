@@ -12,3 +12,5 @@ Git is one of those skills that is easier to learn by doing it rather than tryin
 
 ## Introduction
 
+To be able to use these exercises you need to be be able to `clone` a repository. Examples of instructions on how to do this are in the "Cloning an existing repository" section of [Pro Git book](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) and on the [Github help pages](https://help.github.com/articles/cloning-a-repository/).
+
